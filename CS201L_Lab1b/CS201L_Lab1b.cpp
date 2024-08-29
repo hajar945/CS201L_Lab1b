@@ -1,3 +1,7 @@
+//Name:  Hajar Wilkes
+//Date:
+//Assignment
+//   Code was what done in class
 #include <iostream>
 #include <string>
 #include <random>
