@@ -1,7 +1,7 @@
 //Name:  Hajar Wilkes
-//Date:
-//Assignment
-//   Code was what done in class
+//Date: August 29, 2024
+//Assignment: Lab 1 partb
+//I copied and pasted code from Prof. Joan's Replit from what we did in class and also used ChatGPT for some lines
 #include <iostream>
 #include <string>
 #include <random>
